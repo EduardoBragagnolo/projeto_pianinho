@@ -1,4 +1,4 @@
-O projeto Pianinho foi desenvilvido pensando em auxiliar na musicalização infantil baseado no jogo Genius.
+O projeto Pianinho foi desenvolvido pensando em auxiliar na musicalização infantil baseado no jogo Genius.
 
 
 Nele, o usuário deverá reproduzir a melodia executada pelo jogo.
